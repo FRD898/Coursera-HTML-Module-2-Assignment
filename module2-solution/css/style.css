@@ -24,7 +24,7 @@ p {
 h3 {
     width: 30%;
     text-align: center;
-    border: 2px solid black;
+    border: 1px solid black;
     position: absolute;
     top: 0px;
     right: 0px;
@@ -32,7 +32,7 @@ h3 {
 }
 section {
     position: relative;
-    border: 2px solid black;
+    border: 1px solid black;
     padding: 0px;
     background-color: gray;
     margin-right: 10px;
